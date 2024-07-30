@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.hero-img-container {
+    max-height: 30vh;
+}
+
+.card-img-container {
+    height: 236px;
+}
+
+.contact-img-container {
+    height: 360px;
+}
